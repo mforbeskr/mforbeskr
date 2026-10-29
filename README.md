@@ -1,7 +1,9 @@
 # Hello there!
 
 - Software Engineering student at VIA University College | 2025 - now
-- Check out my portfolio: https://mforbeskr.github.io/
+- Portfolio: https://mforbeskr.github.io/
+
+
 
 - 🌱 I’m currently working on building a marketplace for used equestrian gear
 - 😄 Fun facts: I'm a fast runner and I love Korean food!
